@@ -1,0 +1,53 @@
+[
+  {
+    "session_id": "45f6d800-55a7-4049-9316-daa6b1635510",
+    "user_id": "demo_user",
+    "start_time": "2025-10-02T19:33:42.143113",
+    "end_time": null,
+    "turns": [
+      {
+        "timestamp": "2025-10-02T19:33:46.348564",
+        "user_message": "Hi",
+        "agent_response": "Hi there! Welcome. I'm here to listen and chat with you in a supportive way. How are you feeling today?\n\nI aim to provide a comfortable space where you can share what's on your mind. Is there anything specific you'd like to talk about?",
+        "detected_emotion": null,
+        "risk_level": "low",
+        "intervention_type": null
+      },
+      {
+        "timestamp": "2025-10-02T19:33:51.273078",
+        "user_message": "I am the King",
+        "agent_response": "Hi there. I notice you're stating that you're the King. Could you help me understand more about what brings you to make this statement today? I'm here to listen without judgment.\n\nI want to make sure I understand your current state of mind and experiences. How are you feeling right now?\n\n*Note: While maintaining a supportive dialogue, I'm also monitoring for potential signs that might require professional attention.*",
+        "detected_emotion": null,
+        "risk_level": "low",
+        "intervention_type": null
+      },
+      {
+        "timestamp": "2025-10-02T19:34:12.661559",
+        "user_message": "i am the best!",
+        "agent_response": "I hear that you're feeling very confident and positive about yourself! It's great to have self-confidence and recognize your worth. Could you tell me more about what's making you feel so good about yourself today?\n\nI notice you're expressing some very strong statements about yourself. While healthy self-esteem is wonderful, I'm curious to explore with you what a balanced view might look like. What specific achievements or qualities make you feel this way?\n\nSometimes when we're feeling extremely high or low, it helps to ground ourselves in specific examples. Could you share some concrete situations where you've felt successful recently?\n\nRemember, we all have both strengths and areas for growth - that's what makes us human. What are some areas where you feel both proud and challenged?",
+        "detected_emotion": null,
+        "risk_level": "low",
+        "intervention_type": null
+      },
+      {
+        "timestamp": "2025-10-02T19:34:35.155268",
+        "user_message": "5",
+        "agent_response": "I hear how energized and positive you're feeling about yourself right now! That confidence definitely comes through in your messages.\n\nI'm curious - what specific things have happened recently that are making you feel so great? Sometimes when we're feeling really high, it helps to connect those feelings to concrete experiences.\n\nCould you share an example of something you've done lately that you're particularly proud of? This would help me better understand your current mindset.\n\n*Using a warm, conversational tone while gently exploring the intensity of these statements and staying alert for any concerning patterns*",
+        "detected_emotion": null,
+        "risk_level": "low",
+        "intervention_type": null
+      },
+      {
+        "timestamp": "2025-10-02T19:34:38.720050",
+        "user_message": "5",
+        "agent_response": "I notice you're responding very briefly. Sometimes short responses can mean many different things - you might be feeling uncertain about sharing more, or perhaps you're testing to see how I'll respond.\n\nI want you to know I'm here to listen and understand. The number \"5\" could mean different things - maybe it's how you're feeling on a scale, or perhaps it has another meaning to you?\n\nCould you help me understand a bit more? Even just completing this sentence would be helpful: \"Right now, I'm feeling...\"\n\n*Keeping responses warm but brief to match user's style, while staying alert to potential needs*",
+        "detected_emotion": null,
+        "risk_level": "low",
+        "intervention_type": null
+      }
+    ],
+    "summary": null,
+    "identified_themes": [],
+    "user_satisfaction": null
+  }
+]

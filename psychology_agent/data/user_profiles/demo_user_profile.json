@@ -1,0 +1,33 @@
+{
+  "user_id": "demo_user",
+  "created_at": "2025-11-14T11:41:06.864327",
+  "age": null,
+  "gender": null,
+  "main_concerns": [],
+  "diagnosed_conditions": [],
+  "preferred_therapy_style": null,
+  "communication_preference": "balanced",
+  "effective_strategies": [],
+  "ineffective_strategies": [],
+  "risk_history": [],
+  "goals": [],
+  "personality_profile": {
+    "big_five": {
+      "openness": 0.3,
+      "conscientiousness": 0.2,
+      "extraversion": 0.5,
+      "agreeableness": 0.2,
+      "neuroticism": 0.8
+    },
+    "communication_style": "direct",
+    "response_preference": "emotional_support",
+    "learning_style": "kinesthetic",
+    "change_approach": "immediate",
+    "coping_style": "emotion_focused",
+    "confidence": 0.6,
+    "assessment_date": "2025-11-14T11:45:16.706839",
+    "assessment_method": "conversation_analysis"
+  },
+  "total_sessions": 0,
+  "last_session_date": null
+}
